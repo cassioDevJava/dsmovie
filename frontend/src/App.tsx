@@ -1,6 +1,9 @@
+import NavBar from "./components/NavBar/intex";
+
 function App() {
   return (
-    <h1>Pagina Principal</h1>
+    <NavBar />
+
   );
 }
 
